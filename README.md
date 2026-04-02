@@ -6,7 +6,7 @@ pip3 install -r requirements.txt
 Models
 1. Sparse Autoencoder
 - Encourages sparse latent representations
-- Uses regularization (e.g. L1 penalty or KL divergence)
+- Uses regularization ( KL divergence)
 - Learns compressed features of digits
 
 2. Denoising Autoencoder
